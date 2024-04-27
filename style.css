@@ -23,7 +23,10 @@ h1 {
     margin: 0;
 }
 
-.feet, .marla, .kanal, .acre  {
+.feet,
+.marla,
+.kanal,
+.acre {
     color: rgba(25, 135, 84);
     text-align: center;
     font-weight: 700;
@@ -46,21 +49,24 @@ h1 {
     text-align: center;
 }
 
-#ans1, #ans3{
+#ans1,
+#ans3 {
     text-align: center;
     font-weight: 500;
     font-size: x-large;
     margin-bottom: 1.25rem;
 }
 
-#ans2, #ans4 {
+#ans2,
+#ans4 {
     text-align: center;
     font-weight: 500;
     font-size: x-large;
     margin-bottom: 0;
 }
 
-#submit, #reset {
+#submit,
+#reset {
     font-weight: 500;
 }
 
